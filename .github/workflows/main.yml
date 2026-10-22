@@ -27,3 +27,6 @@ jobs:
         
       - name: Invalid Command
         run: echo "Error Fixed"
+
+      - name: Invalid Command
+        run: abcxyz
